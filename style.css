@@ -25,80 +25,80 @@ nav{
     border: 2px solid white;
     grid-area: nav;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 main{
     background: rgb(69, 247, 143);
     border: 2px solid white;
     grid-area: main;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 #slide{
     background: rgb(68, 218, 68);
     border: 2px solid white;
     grid-area: slide;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 #content1{
     background: rgb(9, 214, 94);
     border: 2px solid white;
     grid-area: content1;
     display:flex;
-    justify-content:center;
-    align-aitems:center;
+    justify-content: center;
+    align-items: center;
 }
 #content2{
     background: rgb(9, 214, 94);
     border: 2px solid white;
     grid-area: content2;
     display:flex;
-    justify-content:center;
-    align-aitems:center;
+    justify-content: center;
+    align-items: center;
 }
 #content3{
     background: rgb(9, 214, 94);
     border: 2px solid white;
     grid-area: content3;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 #beforefooter1{
     background: rgb(11, 255, 113);
     border: 2px solid white;
     grid-area: beforefooter1;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 #beforefooter2{
     background: rgb(11, 255, 113);
     border: 2px solid white;
     grid-area: beforefooter2;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 #beforefooter3{
     background: rgb(11, 255, 113);
     border: 2px solid white;
     grid-area: beforefooter3;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 #footer{
     background: rgb(0, 49, 21);
     border: 2px solid white;
     grid-area: footer;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 }
 @media screen and (max-width:576px) {
     .maincontainer{
