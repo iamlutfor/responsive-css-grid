@@ -24,6 +24,9 @@ nav{
     background: rgb(1, 49, 21);
     border: 2px solid white;
     grid-area: nav;
+    display:flex;
+    justify-content:center;
+    align-aitem:center;
 }
 main{
     background: rgb(69, 247, 143);
